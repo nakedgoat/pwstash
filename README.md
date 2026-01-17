@@ -24,4 +24,3 @@ sudo ./pwstash.sh --restore-seedbox-pass --user <user>
 sudo ./pwstash.sh --restore-seedbox-pass
 
 
-If changeseedboxpass actually expects an argument (like a username), tell me the exact usage and I’ll wire it in.
